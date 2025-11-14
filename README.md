@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Deoule-allah Madjitoloum Heliodore
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%92%A1;Frontend+%7C+Backend+%7C+Mobile" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=2F80ED&center=true&vCenter=true&width=600&lines=Fullstack+Developer+%F0%9F%92%BB;Tech+Enthusiast+%F0%9F%92%A1;Frontend+%7C+Backend+%7C" />
 </p>
 
 ## 🚀 About Me
